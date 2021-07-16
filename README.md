@@ -14,3 +14,5 @@ After this, a screen prompts you to select a weather type: sunny, snowy, or clou
 Once you press the right arrow after selecting the weather, the final painting will be displayed.
 
 This program uses openGL and GLUT, and borrows code from the Runner and Confettify guided projects.
+
+https://web.microsoftstream.com/video/48a12f1f-cd1a-45b2-9323-d19cc1b12c0e
