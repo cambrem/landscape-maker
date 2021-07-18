@@ -1,4 +1,4 @@
-# ReadMe
+# Landscape Maker
 Demo Video: https://youtu.be/y5-jXh7bXLE
 
 This program allows you to paint a dynamic landscape by presenting you with different options. 
